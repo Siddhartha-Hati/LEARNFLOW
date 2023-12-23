@@ -1,0 +1,2 @@
+This is a email sender which will send email on a schedule time if the debugger is not closed. You have to create application password for your mail and you have to check the smtp server(for example: for gmail the server is -smtp.gmail.com) and find the port (for gmail its 587)
+then you can send the mail.
